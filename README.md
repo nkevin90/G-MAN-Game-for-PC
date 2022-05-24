@@ -21,7 +21,7 @@
     <li>Evans Busuru</li>
     <li>Kelvin Njenga</li>
     </ul>
-    <p>To learn more about the game kindly visit</p><a href='https://globalgamejam.org/2020/games/gman-4'>
+    <a href='https://globalgamejam.org/2020/games/gman-4'><p>To learn more about the game click here</p></a>
     <caption>NB: G-Man is only available for Windows and Mobile Platforms, G-man will be available for other devices/Operating systems soon</caption>
   </body>
   <html/>
