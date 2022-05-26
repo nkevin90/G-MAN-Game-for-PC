@@ -23,6 +23,6 @@
     </ul>
     <img src='Screenshot 2022-05-24 120342.png'>
     <a href='https://globalgamejam.org/2020/games/gman-4'><p>To learn more about the game click here</p></a>
-    <caption>NB: G-Man is only available for Windows and Mobile Platforms, G-man will be available for other devices/Operating systems soon</caption>
+    <caption>NB: G-Man is only available for Windows and Mobile Platforms, G-man will be available soon for other devices/Operating systems </caption>
   </body>
   <html/>
