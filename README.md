@@ -1,7 +1,7 @@
 <html>
   <head><h1>G-MAN Game for PC</h1></head>
   <body>
-    <p>How to install and Play the Game</p>
+    <p>How to install and Play the Game✍️</p>
   <ul>
     <li>Step 1: Download all the files/dependencies folder in this repo and unzip them</li>
     <li>Step 2: Run the G-Man.exe file to run and play the game</li>
@@ -23,6 +23,6 @@
     </ul>
     <img src='Screenshot 2022-05-24 120342.png'>
     <a href='https://globalgamejam.org/2020/games/gman-4'><p>To learn more about the game click here</p></a>
-    <caption>NB: G-Man is only available for Windows and Mobile Platforms, G-man will be available soon for other devices/Operating systems </caption>
+    <caption>FYI: G-Man is only available for Windows and Mobile Platforms, G-man will be available soon for other devices/Operating systems🦾 </caption>
   </body>
   <html/>
