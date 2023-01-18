@@ -19,7 +19,7 @@
     <li>Ian Joseph</li>
     <li>Joseph Makonge</li>
     <li>Evans Busuru</li>
-    <li>Kelvin Njenga</li>
+    <li>Kelvin Njenga.</li>
     </ul>
     <img src='Screenshot 2022-05-24 120342.png'>
     <a href='https://globalgamejam.org/2020/games/gman-4'><p>To learn more about the game click here</p></a>
