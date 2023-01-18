@@ -15,7 +15,7 @@
     </p>
     <ul>
   <caption>This Project was done with the partneship of:</caption>
-    <li>Billy Gareth<li>
+    <li>Billy Gareth</li>
     <li>Ian Joseph</li>
     <li>Joseph Makonge</li>
     <li>Evans Busuru</li>
