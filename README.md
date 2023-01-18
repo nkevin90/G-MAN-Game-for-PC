@@ -1,5 +1,5 @@
 <html>
-  <head><h1>G-MAN Game for PC🖥️</h1></head>
+  <head><h1>G-MAN Game for PC🖥️ (Nairobi Global Game Jam 2020 Winners)</h1></head>
   <body>
     <p>How to install and Play the Game✍️</p>
   <ul>
